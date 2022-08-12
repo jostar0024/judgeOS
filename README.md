@@ -1,4 +1,4 @@
-# dudgeplatform
+# judgeplatform
 
 A new Flutter project.
 
